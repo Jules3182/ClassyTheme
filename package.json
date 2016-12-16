@@ -1,15 +1,15 @@
 {
     "name": "jules3182.truebluetheme",
     "title": "True Blue Theme",
-    "description": "A blue styled theme made by Julian Baker",
-    "homepage": "https://github.com/Jules3182/TrueBlueBracketsTheme",
+    "description": "A classy theme made by Julian Baker and Mathew Silverman",
+    "homepage": "https://github.com/Jules3182/ClassyTheme",
     "version": "1.0.0",
-    "author": "Julian Baker <jtoad23@gmail.com>",
+    "author": "Julian Baker And Mathew Silverman",
     "license": "MIT",
     "theme": {
         "file": "theme.less",
         "dark": false,
         "addModeClass": true
     },
-    "keywords": ["theme", "paperback", "light", "blue", "cool", "true", "jules3182"]
+    "keywords": ["theme", "Classy", "dark", "blue", "cool", "true", "jules3182", "Julian Baker", "Mathew Silverman"]
 }
