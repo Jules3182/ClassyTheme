@@ -1,4 +1,4 @@
-# brackets-TrueBlue
+# brackets-Classy
 
 ## sample screen shots
 ### HTML
@@ -6,4 +6,4 @@
 
 ### CSS
 ![screenshot-css](/screenshots/Screen\ Shot\ CSS.png "CSS Screen Shot")
-# TrueBlueBracketsTheme
+# ClassyBracketsTheme
